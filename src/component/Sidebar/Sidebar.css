@@ -1,0 +1,56 @@
+.sidebar {
+   
+    height: 100%;
+    background-color: white;
+    color:balck;
+    
+    display: flex;
+
+  }
+  .sidebar-icon {
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+  
+  
+  .sidebar-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .sidebar-item {
+    margin-bottom: 10px;
+  }
+  
+  .sidebar-item a {
+    text-decoration: none;
+    color:black;
+    padding: 10px;
+    display: block;
+  }
+  
+  .sidebar-item a:hover {
+    background-color:blue;
+  }
+  .sidebar-content{
+    margin-left: 20px;
+   
+  }
+
+  .sidebar-width{
+    width:200px;
+  }
+  .container{
+    background-color: rgb(247, 245, 245);
+    width: 100%;
+    height:100vh;
+    margin-top: 0px;
+  }
+  .card{
+    display: flex;
+      }
+ .paragraph{
+    margin-right: 20px;
+    margin-top: 100px;
+ }     
